@@ -1,5 +1,7 @@
 # Fn
 
+[![codecov](https://codecov.io/gh/benjic/fn/graph/badge.svg?token=xCfheWtFyG)](https://codecov.io/gh/benjic/fn)
+
 This is a collection of functional types that allow you to build type safety
 into how code is composed.
 
